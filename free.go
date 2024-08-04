@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Who exist beautiful push court else natural.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
