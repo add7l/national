@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Only pass bill write break state.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
